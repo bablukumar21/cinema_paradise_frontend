@@ -25,7 +25,7 @@ Check out [FRONTEND LIVE DEMO](https://cinemaparadisefrontend.bablukumar9.repl.c
 ## How to Install
 1. Git Clone
 ```
-git clone https://github.com/rsinclair12/cinema_paradiso_frontend.git
+git clone https://github.com/bablukumar21/cinema_paradise_frontend.git
 ```
 
 2. Frontend setting
